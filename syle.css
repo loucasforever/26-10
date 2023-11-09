@@ -1,14 +1,35 @@
-body
-   background: #CCCCCC
+body {
 
+}
 
-  #banner
+#banner {
+    width:100%;
+}
 
+.principal {
+     background: #CCCCCC
+}
 
+#missao {
+    font-size: 20px;
+}
 
-  h1
-     text-aling: center
+em strong {
+    color: #FFOOOO;
+}
 
+.itens {
+    font-style: italic
+}
 
- p
-     text-aling: center
+.beneficios {
+      background: #FFFFFF;
+}
+
+h2 {
+    text-align: center;
+}
+
+.imagembeneficios {
+    width: 50%;
+}
